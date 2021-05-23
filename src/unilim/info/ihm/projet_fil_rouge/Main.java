@@ -17,9 +17,6 @@ public class Main extends Application {
 			
 			// TODO Instanciation des composants
 			
-			
-			
-			
 			// TODO gestionaire de layout racine
 			
 			GridPane root = new GridPane();
