@@ -19,7 +19,7 @@ public class Main extends Application {
 			
 			// TODO gestionaire de layout racine
 		
-			Scene scene = new Scene(root,800,500);
+			Scene scene = new Scene(root,800,800);
 			primaryStage.setScene(scene);
 			primaryStage.setTitle("Jeu de Memory !");
 			primaryStage.show();
